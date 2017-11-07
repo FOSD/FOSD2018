@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+// Define the background image for the site header.
+.page-header {
+  background: #ffffff url("/assets/img/{{ site.header_image }}") no-repeat center;
+}
+
 // Restrict the width of the project tag line.
 .project-tagline-restrictor {
   max-width: 55rem;
