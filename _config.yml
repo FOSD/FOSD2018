@@ -1,0 +1,14 @@
+theme: jekyll-theme-cayman
+
+title: FOSD 2018
+description: Welcome to the Web site of the Feature Oriented Software Development Meeting (FOSD) 2018
+
+repository: FOSD/FOSD2018
+
+defaults:
+  - scope:
+      path: "pages"
+    values:
+      permalink: :basename
+
+exclude: [CNAME, Gemfile, Gemfile.lock, README.md]

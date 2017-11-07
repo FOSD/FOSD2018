@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Restrict the width of the project tag line.
+.project-tagline-restrictor {
+  max-width: 55rem;
+  margin: auto;
+}
