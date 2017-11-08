@@ -65,3 +65,21 @@ Session: {{ session.from | date: "%R" }} - {{ session.to | date: "%R" }}, Chair:
 {% endfor %}
 {% endfor %}
 {% endfor %}
+
+## Participants
+We are glad to have the following participants.
+
+{% assign participants_sorted = site.data.participants | sort: "lastname" %}
+|Name|Title|University|
+|:-: +:-   +:-        |
+{% for p in participants_sorted -%}
+|{{ p.firstname }} {{ p.lastname }}|{{ p.title }}|{{ p.university }}|
+{% endfor %}{: id="participants_table" }
+
+
+## VISA Information
+If you are a non EU citizen, please find if you need a visa for entering Germany and Schengen Area.
+A list for citizen of countries that need a visa can be found here [Do I need a visa?](http://www.auswaertiges-amt.de/EN/EinreiseUndAufenthalt/Visabestimmungen_node.html).
+
+## Contact
+For abstract submission or any other questions please send an e-mail to Malte Lochau: malte **dot** lochau at es **dot** tu-darmstadt **dot** de.
