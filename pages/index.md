@@ -21,17 +21,47 @@ Every year there is an informal competition, FOSD Cool Wall, where everyone vote
 **The deadline for the abstract is January 16th, 2017.**
 We will provide notifications one week later. If you need more lead time for visa application or travel planning, reach out to us.
 
-## Your Stay
+### Your Stay
 The fee includes your stay, all meals, the social event on Wednesday afternoon and a bus transfer to Darmstadt main station on Friday.
 Please just ask me for your personal printout of the receipt of your payment during the next week.
-IMPORTANT: We decided to exclude drinks from the fee to keep the overall costs moderate (the only exception is coffee and tea during the coffee breaks).
+*IMPORTANT:* We decided to exclude drinks from the fee to keep the overall costs moderate (the only exception is coffee and tea during the coffee breaks).
 You can purchase all kinds of drinks at any time at the hotel during your stay (payment cash or by credit card).
 Since tap water is of very good quality in Germany, we recommend you to bring with you a drinking bottle which you can refill in your room.
 In addition, we will try to organize some drinks at cost price for the evening time.
 
-## Your Talk
+### Your Talk
 This year, every participant has an allocated slot of 25 minutes.
 Please prepare slides that do not require more than 13 minutes of presentation such that we have at least half of the slot for discussions.
 We will enforce the 13 min time limit strictly.
 
 ![participants]({% link assets/img/participants.jpg %})
+
+## Location & Travel Information
+The FOSD meeting 2017 will take place in TBD.
+
+{% comment -%}
+    TODO Google Maps... braucht einen API Key usw.
+    Liquid Funktion bauen?
+{%- endcomment -%}
+
+### Arrival by car
+TBD
+### Arrival by train
+TBD
+### Arrival by plane
+TBD
+### Departure
+TBD
+
+## Keynote Speakers
+
+## Schedule
+{% for conf_day in site.data.schedule %}
+#### Schedule {{ conf_day.day | date: "%A, %b %e" }}
+{% for session in conf_day.sessions %}
+Session: {{ session.from | date: "%R" }} - {{ session.to | date: "%R" }}, Chair: {{ session.chair }}
+{% for talk in session.talks %}
+* **{{ talk.speaking }}**: {{ talk.title }}
+{% endfor %}
+{% endfor %}
+{% endfor %}

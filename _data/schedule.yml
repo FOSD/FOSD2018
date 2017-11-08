@@ -1,0 +1,28 @@
+- day: March 14, 2017
+  sessions:
+    - from: "8:30"
+      to: "10:00"
+      chair: Sven Apel
+      talks:
+        - speaking: Christian Kästner, Sven Apel, Malte Lochau
+          title: Opening
+        - speaking: Nobert Siegmund
+          title: Automated Configuration of Machine-Learning Software
+
+    - from: "10:40"
+      to: "12:20"
+      chair: Norbert Siegmund
+      talks:
+        - speaking: Paul Gazzillo
+          title: Enabling Variability-Aware Software Tools
+        - speaking: Shurui Zhou
+          title: "INFOX: Identifying Features from Forks"
+
+- day: March 15, 2017
+  sessions:
+    - from: "8:30"
+      to: "10:40"
+      chair: Christian Kaestner
+      talks:
+        - speaking: Julia Lawall
+          title: Practical impacts of variability in the Linux kernel (Keynote)
