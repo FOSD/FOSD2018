@@ -14,11 +14,11 @@ FOSD is a place for discussion, not a publication venue.
 Participants can present previously published work as well as unpublished work, including early ideas and work in progress.
 The key is to encourage discussions, to receive feedback and to create a network for new collaboration
 
-An invited talk will be given by Julia Lawall (INRIA)
+An invited talk will be given by TBD
 
 Every year there is an informal competition, FOSD Cool Wall, where everyone votes for the coolest name of a tool that has been presented during the meeting.
 
-**The deadline for the abstract is January 16th, 2017.**
+**The deadline for the abstract is January 16th, 2018.**
 We will provide notifications one week later. If you need more lead time for visa application or travel planning, reach out to us.
 
 ### Your Stay
@@ -37,7 +37,7 @@ We will enforce the 13 min time limit strictly.
 ![participants]({% link assets/img/participants.jpg %})
 
 ## Location & Travel Information
-The FOSD meeting 2017 will take place in TBD.
+The FOSD meeting 2018 will take place in TBD.
 
 {% comment -%}
     TODO Google Maps... braucht einen API Key usw.
