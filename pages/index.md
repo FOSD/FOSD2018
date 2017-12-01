@@ -14,13 +14,14 @@ The key is to encourage discussions, to receive feedback and to create a network
 Every year there is an informal competition, FOSD Cool Wall (see [fosd.net](http://fosd.net)), where everyone votes for the coolest name of a tool that has been presented during the meeting.
 
 The FOSD meeting 2018 will take place in Gothenburg, Sweden, from June 4 (afternoon) until June 7, 2018 (evening).
-More details about FOSD and previous FOSD meetings can be found at [fosd.net](http://fosd.net). 
+
+Prof. Myra Cohen (https://cse.unl.edu/~myra/) will give a keynote. For detailed information about the meeting, visit our Website http://fosd.net/2018
+
 For the [FOSD2018 Workshop](http://fosd.net/workshop2018), please visit FOSD'18 WORKSHOP
 
-An invited talk will be given by Prof. Myra Cohen (https://cse.unl.edu/~myra/).
-
 **The deadline for the abstract is February 1, 2018.**
-We will provide notifications one week later. If you need more lead time for visa application or travel planning, reach out to us.
+Due to space restrictions, we may have to select participants, but we will send notifications shortly after the abstract deadline.
+If you need more lead time for visa application or travel planning, reach out to us.
 
 ### Hotel
 The fee includes your stay, all meals, the social event on Wednesday afternoon and a bus transfer to Darmstadt main station on Friday.
@@ -94,8 +95,8 @@ We are glad to have the following participants.
 
 
 ## VISA Information
-If you are a non EU citizen, please find if you need a visa for entering Germany and Schengen Area.
-A list for citizen of countries that need a visa can be found here [Do I need a visa?](http://www.auswaertiges-amt.de/EN/EinreiseUndAufenthalt/Visabestimmungen_node.html).
+If you are a non EU citizen, please find if you need a visa for entering Sweden and Schengen Area.
+A list for citizen of countries that need a visa can be found here [Do I need a visa?](https://www.schengenvisainfo.com/who-needs-schengen-visa/).
 
 ## Contact
 For abstract submission please send an e-mail to Shurui Zhou:  <shuruiz@cs.cmu.edu>. <br />
