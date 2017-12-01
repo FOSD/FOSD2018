@@ -14,7 +14,7 @@ FOSD is a place for discussion, not a publication venue.
 Participants can present previously published work as well as unpublished work, including early ideas and work in progress.
 The key is to encourage discussions, to receive feedback and to create a network for new collaboration
 
-An invited talk will be given by TBD
+An invited talk will be given by Prof. Myra Cohen (https://cse.unl.edu/~myra/).
 
 Every year there is an informal competition, FOSD Cool Wall, where everyone votes for the coolest name of a tool that has been presented during the meeting.
 
@@ -67,6 +67,7 @@ https://www.flygbussarna.se/en/landvetter
 TBD
 
 ## Keynote Speakers
+Prof. Myra Cohen (https://cse.unl.edu/~myra/)
 
 ## Schedule
 {% for conf_day in site.data.schedule %}
@@ -99,8 +100,8 @@ For abstract submission please send an e-mail to Shurui Zhou: shuruiz at cs **do
 For other questions please send an e-mail to Thorsten Berger: thorsten **dot** Berger at chalmers **dot** se.
 
 ## Organizers
-Thorsten Berger <thorsten.berger@chalmers.se>
-Shurui Zhou <shuruiz@cs.cmu.edu>
-Christian Kästner <kaestner@cs.cmu.edu>
-Sven Apel <apel@uni-passau.de>
+Thorsten Berger <thorsten.berger@chalmers.se> <br />
+Shurui Zhou <shuruiz@cs.cmu.edu> <br />
+Christian Kästner <kaestner@cs.cmu.edu>  <br />
+Sven Apel <apel@uni-passau.de><br />
 
