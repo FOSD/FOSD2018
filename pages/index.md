@@ -21,13 +21,22 @@ Every year there is an informal competition, FOSD Cool Wall, where everyone vote
 **The deadline for the abstract is January 16th, 2018.**
 We will provide notifications one week later. If you need more lead time for visa application or travel planning, reach out to us.
 
-### Your Stay
+### Hotel
 The fee includes your stay, all meals, the social event on Wednesday afternoon and a bus transfer to Darmstadt main station on Friday.
 Please just ask me for your personal printout of the receipt of your payment during the next week.
 *IMPORTANT:* We decided to exclude drinks from the fee to keep the overall costs moderate (the only exception is coffee and tea during the coffee breaks).
 You can purchase all kinds of drinks at any time at the hotel during your stay (payment cash or by credit card).
 Since tap water is of very good quality in Germany, we recommend you to bring with you a drinking bottle which you can refill in your room.
 In addition, we will try to organize some drinks at cost price for the evening time.
+
+We made room reservations at Quality Hotel Panorama, which is just 900m away from the Chalmers Campus. The hotel is paid directly via the registration fee.
+
+Quality Hotel Panorama Gothenburg
+Eklandagatan 51-53
+Gothenburg, Sweden
+http://quality-hotel-panorama.gothenburg-hotels.com/en/
+
+
 
 ### Your Talk
 This year, every participant has an allocated slot of 25 minutes.
@@ -37,19 +46,23 @@ We will enforce the 13 min time limit strictly.
 ![participants]({% link assets/img/participants.jpg %})
 
 ## Location & Travel Information
-The FOSD meeting 2018 will take place in TBD.
+The FOSD Meeting 2018 will take place at Chalmers Technical University in Gothenburg, Sweden. Specifically, it will be held at Campus Johanneberg (http://www.chalmers.se/en/about-chalmers/premises-and-campus/Pages/find-your-way-to-chalmers.aspx), which is the larger one of the two Chalmers Campus (the smaller one is at Lindholmen).
 
 {% comment -%}
     TODO Google Maps... braucht einen API Key usw.
     Liquid Funktion bauen?
 {%- endcomment -%}
 
-### Arrival by car
-TBD
-### Arrival by train
-TBD
-### Arrival by plane
-TBD
+### Arrival via Rail
+Exit the train at the central station/the Nils Ericsson terminal.  Take bus 16, destination Högsbohöjd, from the stop Nordstan, just outside the terminal. From Drottningstorget, also just outside the central station, you can take tram 13, heading "Sahlgrenska", to Chalmers. From Brunnsparken, approximately 500 meters from the central station there are additional tram lines that will take you to Chalmers. From there you can walk to the hotel or come directly to the FOSD meeting on campus. Please visit Västtrafik for details.  
+
+### Arrival via Air
+Landvetter Airport in Gothenburg has daily flights to and from most major European cities. It is possible to take a Taxi from the airport directly to the hotel, and the price from the airport to the city center is around SEK 400 (45€).
+http://www.taxigoteborg.se/En/Home
+
+There is also a convenient airport bus service that connects Landvetter Airport to the Central Station in Gothenburg. The bus stop is right outside the airport’s entrance and 2-4 buses run every hour. The travel time to the Central Station is about 30 minutes, and the trip costs SEK 105 (approximately 11 €). The buses are called Flygbussarna and tickets can be purchased online (and shown to the driver on the mobile phone), via totems at the airport, or directly on the bus (a bit more expensive). If you want to use these busses to get to Chalmers Johanneberg Campus or to the hotel, get off the airport bus at station Korsvägen. It is the first stop when the bus arrives Gothenburg, after only 15min travel time.
+https://www.flygbussarna.se/en/landvetter 
+
 ### Departure
 TBD
 
@@ -82,4 +95,12 @@ If you are a non EU citizen, please find if you need a visa for entering Germany
 A list for citizen of countries that need a visa can be found here [Do I need a visa?](http://www.auswaertiges-amt.de/EN/EinreiseUndAufenthalt/Visabestimmungen_node.html).
 
 ## Contact
-For abstract submission or any other questions please send an e-mail to Malte Lochau: malte **dot** lochau at es **dot** tu-darmstadt **dot** de.
+For abstract submission please send an e-mail to Shurui Zhou: shuruiz at cs **dot** cmu **dot** edu.
+For other questions please send an e-mail to Thorsten Berger: thorsten **dot** Berger at chalmers **dot** se.
+
+## Organizers
+Thorsten Berger <thorsten.berger@chalmers.se>
+Shurui Zhou <shuruiz@cs.cmu.edu>
+Christian Kästner <kaestner@cs.cmu.edu>
+Sven Apel <apel@uni-passau.de>
+
