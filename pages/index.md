@@ -3,7 +3,7 @@ title: Home
 ---
 ## About
 The FOSD meeting is a yearly informal meeting to bring together researchers working on feature-oriented software development (which includes product lines, software variability, configuration management, software architecture, and more).
-The meeting started 9 years ago to bring several research groups with common interests closer together, has successfully been expanded and repeated 9 times with 20 to 50 participants each, and has established countless collaborations since.
+The meeting started 9 years ago to bring several research groups with common interests closer together, has successfully been expanded and repeated 9 times with 20 to 50 participants each, and has established countless collaborations since. For example, see [FOSD 2017 in Darmstadt](http://fosd.net/2017) and [FOSD 2016 in Copenhagen](http://fosd.net/2016).
 
 The format of the FOSD meeting consists of short presentations from each participant with plenty of time for discussion.
 Young researchers (graduate and undergraduate students), as well as more senior community members, present their research, provide and get feedback from others, engage into discussions and establish new collaborations.
@@ -15,9 +15,10 @@ Every year there is an informal competition, FOSD Cool Wall (see [fosd.net](http
 
 The FOSD meeting 2018 will take place in Gothenburg, Sweden, from June 4 (early afternoon) until June 7, 2018 (evening).
 
-Prof. Myra Cohen (https://cse.unl.edu/~myra/) will give a keynote. For detailed information about the meeting, visit our Website http://fosd.net/2018
+[Prof. Myra Cohen](https://cse.unl.edu/~myra/) will give a keynote. For detailed information about the meeting, visit our Website http://fosd.net/2018
 
 **The deadline for the abstract is February 1, 2018.**
+FOSD does not require any paper submission and does not have proceedings, though we do expect an abstract about the research that is to be presented and an e-mail address of the participant.
 Due to space restrictions, we may have to select participants, but we will send notifications shortly after the abstract deadline.
 If you need more lead time for visa application or travel planning, reach out to us.
 
@@ -30,7 +31,8 @@ This year, every participant has an allocated slot of 25 minutes.
 Please prepare slides that do not require more than 13 minutes of presentation such that we have at least half of the slot for discussions.
 We will enforce the 13 min time limit strictly.
 
-![participants]({% link assets/img/participants.jpg %})
+Group picture from last year:
+![participants 2017]({% link assets/img/participants.jpg %})
 
 ## Location & Travel Information
 The FOSD Meeting 2018 will take place at Chalmers Technical University in Gothenburg, Sweden. Specifically, it will be held at Campus Johanneberg (http://www.chalmers.se/en/about-chalmers/premises-and-campus/Pages/find-your-way-to-chalmers.aspx), which is the larger one of the two Chalmers Campus (the smaller one is at Lindholmen).
@@ -45,6 +47,8 @@ http://quality-hotel-panorama.gothenburg-hotels.com/en/
 There will be a flat registration fee that covers your stay, all meals, and the social event on Tuesday afternoon.
 We will try to organize some drinks at cost price for the evenings. We will organize hotel reservation and payment centrally, covered via the registration fee.
 
+We expect that most participants will arrive Sunday morning (or stay after ICSE and rest for one day) and that depart Thursday morning.
+
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=12wUdM3p8OOwO0XIvDJo-c7W2r9k7f42e" width="640" height="480"></iframe>
 
 ### Arrival via Rail
@@ -57,8 +61,6 @@ http://www.taxigoteborg.se/En/Home
 There is also a convenient airport bus service that connects Landvetter Airport to the Central Station in Gothenburg. The bus stop is right outside the airport’s entrance and 2-4 buses run every hour. The travel time to the Central Station is about 30 minutes, and the trip costs SEK 105 (approximately 11 €). The buses are called Flygbussarna and tickets can be purchased online (and shown to the driver on the mobile phone), via totems at the airport, or directly on the bus (a bit more expensive). If you want to use these busses to get to Chalmers Johanneberg Campus or to the hotel, get off the airport bus at station Korsvägen. It is the first stop when the bus arrives Gothenburg, after only 15min travel time.
 https://www.flygbussarna.se/en/landvetter 
 
-### Departure
-TBD
 
 ## Keynote Speakers
 Prof. Myra Cohen (https://cse.unl.edu/~myra/)
