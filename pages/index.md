@@ -98,8 +98,8 @@ If you are a non EU citizen, please find if you need a visa for entering Germany
 A list for citizen of countries that need a visa can be found here [Do I need a visa?](http://www.auswaertiges-amt.de/EN/EinreiseUndAufenthalt/Visabestimmungen_node.html).
 
 ## Contact
-For abstract submission please send an e-mail to Shurui Zhou: shuruiz at cs **dot** cmu **dot** edu.
-For other questions please send an e-mail to Thorsten Berger: thorsten **dot** Berger at chalmers **dot** se.
+For abstract submission please send an e-mail to Shurui Zhou:  <shuruiz@cs.cmu.edu>. <br />
+For other questions please send an e-mail to Thorsten Berger:  <thorsten.berger@chalmers.se>.
 
 ## Organizers
 Thorsten Berger <thorsten.berger@chalmers.se> <br />
