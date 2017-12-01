@@ -11,9 +11,9 @@ FOSD is a place for discussion, not a publication venue.
 Participants can present previously published work as well as unpublished work, including early ideas and work in progress.
 The key is to encourage discussions, to receive feedback and to create a network for new collaboration
 
-Every year there is an informal competition, FOSD Cool Wall, where everyone votes for the coolest name of a tool that has been presented during the meeting.
+Every year there is an informal competition, FOSD Cool Wall (see [fosd.net](http://fosd.net)), where everyone votes for the coolest name of a tool that has been presented during the meeting.
 
-The FOSD meeting 2018 will be held in Gothenburg, Sweden, from June 4 to June 7.
+The FOSD meeting 2018 will take place in Gothenburg, Sweden, from June 4 (afternoon) until June 7, 2018 (evening).
 More details about FOSD and previous FOSD meetings can be found at [fosd.net](http://fosd.net). 
 For the [FOSD2018 Workshop](http://fosd.net/workshop2018), please visit FOSD'18 WORKSHOP
 
