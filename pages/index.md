@@ -2,11 +2,10 @@
 title: Home
 ---
 ## About
-The FOSD meeting is an informal meeting designed to bring together researchers working on feature-oriented software development (FOSD). 
-It started in 2009 and has since evolved and expanded in what now is an international event. 
-Since 2014, the meeting is held in English. 
+The FOSD meeting is a yearly informal meeting to bring together researchers working on feature-oriented software development (which includes product lines, software variability, configuration management, software architecture, and more).
+The meeting started 9 years ago to bring several research groups with common interests closer together, has successfully been expanded and repeated 9 times with 20 to 50 participants each, and has established countless collaborations since.
 More details about FOSD and previous FOSD meetings can be found at [fosd.net](http://fosd.net). 
-For the [FOSD2016 Workshop](http://fosd.net/workshop2016), please visit FOSD'16 WORKSHOP
+For the [FOSD2018 Workshop](http://fosd.net/workshop2018), please visit FOSD'18 WORKSHOP
 
 The format of the FOSD meeting consists of short presentations from each participant (approx 15 min) with plenty of time for discussion.
 Young researchers (graduate and undergraduate students), as well as more senior community members, present their research, provide and get feedback from others, engage into discussions and establish new collaborations.
@@ -18,7 +17,7 @@ An invited talk will be given by Prof. Myra Cohen (https://cse.unl.edu/~myra/).
 
 Every year there is an informal competition, FOSD Cool Wall, where everyone votes for the coolest name of a tool that has been presented during the meeting.
 
-**The deadline for the abstract is January 16th, 2018.**
+**The deadline for the abstract is February 1, 2018.**
 We will provide notifications one week later. If you need more lead time for visa application or travel planning, reach out to us.
 
 ### Hotel
@@ -71,6 +70,7 @@ Prof. Myra Cohen (https://cse.unl.edu/~myra/)
 
 ## Schedule
 {% for conf_day in site.data.schedule %}
+June 4 to June 7, 2018
 #### Schedule {{ conf_day.day | date: "%A, %b %e" }}
 {% for session in conf_day.sessions %}
 Session: {{ session.from | date: "%R" }} - {{ session.to | date: "%R" }}, Chair: {{ session.chair }}
