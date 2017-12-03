@@ -83,4 +83,5 @@ Thorsten Berger <thorsten.berger@chalmers.se> (General Chair)<br />
 Shurui Zhou <shuruiz@cs.cmu.edu> (Program)<br />
 Christian Kästner <kaestner@cs.cmu.edu>  <br />
 Sven Apel <apel@uni-passau.de><br />
+Georg Seibt <seibt@fim.uni-passau.de> 
 
