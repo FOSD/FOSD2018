@@ -2,10 +2,10 @@ Welcome to the Web site of the Feature Oriented Software Development Meeting (FO
 
 #### Technology
 This website is developed using the [Jekyll](https://jekyllrb.com/) static site generator and hosted using [GitHub Pages](https://pages.github.com/). 
-The current state of the `master` branch is always available under **GITHUB-PAGES AKTIVIEREN UND LINK EINTRAGEN**.
+The current state of the `master` branch is always available under https://fosd.github.io/FOSD2018/.
 
 ### Development
-To prevent accidental modification of the live website, the `master` branch is protected. **SCHÜTZEN BEVOR GH-PAGES AKTIVIERT WIRD**
+To prevent accidental modification of the live website, the `master` branch is protected.
 Please create development branches for any proposed changes to the site. 
 Once you believe your changes should go live, issue a [pull request](https://help.github.com/articles/about-pull-requests/) from your branch into `master` and assign an appropriate reviewer.
 
