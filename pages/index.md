@@ -15,8 +15,6 @@ Every year there is an informal competition, FOSD Cool Wall (see [fosd.net](http
 
 The FOSD meeting 2018 will take place in Gothenburg, Sweden, from June 4 (early afternoon) until June 7, 2018 (evening).
 
-[Prof. Myra Cohen](https://cse.unl.edu/~myra/) will give a keynote. For detailed information about the meeting, visit our Website http://fosd.net/2018
-
 **The deadline for the abstract is February 1, 2018.**
 FOSD does not require any paper submission and does not have proceedings, though we do expect an abstract about the research that is to be presented and an e-mail address of the participant.
 Due to space restrictions, we may have to select participants, but we will send notifications shortly after the abstract deadline.
