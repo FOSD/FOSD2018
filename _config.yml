@@ -3,6 +3,7 @@ theme: jekyll-theme-cayman
 title: FOSD 2018 Meeting
 subtitle: June 4-7, 2018, Gothenburg
 description: Welcome to the Web site of the Feature Oriented Software Development Meeting (FOSD) 2018
+
 header_image: banner.jpeg
 
 repository: FOSD/FOSD2018
