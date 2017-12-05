@@ -49,7 +49,7 @@ We will try to organize some drinks at cost price for the evenings. We will orga
 
 We expect that most participants will arrive Sunday morning (or stay after ICSE and rest for one day) and that depart Thursday morning.
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=12wUdM3p8OOwO0XIvDJo-c7W2r9k7f42e" width="640" height="480"></iframe>
+<iframe id="gmaps_iframe" src="https://www.google.com/maps/d/u/0/embed?mid=12wUdM3p8OOwO0XIvDJo-c7W2r9k7f42e"></iframe>
 
 ### Arrival via Rail
 Exit the train at the central station/the Nils Ericsson terminal.  Take bus 16, destination Högsbohöjd, from the stop Nordstan, just outside the terminal. From Drottningstorget, also just outside the central station, you can take tram 13, heading "Sahlgrenska", to Chalmers. From Brunnsparken, approximately 500 meters from the central station there are additional tram lines that will take you to Chalmers. From there you can walk to the hotel or come directly to the FOSD meeting on campus. Please visit Västtrafik for details.  
