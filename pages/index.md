@@ -75,8 +75,8 @@ For abstract submission please send an e-mail with title and abstract (text only
 For other questions please send an e-mail to Thorsten Berger:  <thorsten.berger@chalmers.se>.
 
 ## Organizers
-Thorsten Berger <thorsten.berger@chalmers.se>
-Shurui Zhou <shuruiz@cs.cmu.edu>
+Thorsten Berger <thorsten.berger@chalmers.se>  
+Shurui Zhou <shuruiz@cs.cmu.edu>  
 Christian Kästner <kaestner@cs.cmu.edu>  
 Sven Apel <apel@uni-passau.de>  
 Georg Seibt <seibt@fim.uni-passau.de>
