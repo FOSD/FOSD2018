@@ -11,9 +11,9 @@ FOSD is a place for discussion, not a publication venue.
 Participants can present previously published work as well as unpublished work, including early ideas and work in progress.
 The key is to encourage discussions, to receive feedback and to create a network for new collaboration
 
-Every year there is an informal competition, FOSD Cool Wall (see [fosd.net](http://fosd.net)), where everyone votes for the coolest name of a tool that has been presented during the meeting.
+Every year there is an informal competition, the FOSD Cool Wall (see [fosd.net](http://fosd.net)), where everyone votes for the coolest name of a tool that has been presented during the meeting.
 
-The FOSD meeting 2018 will take place in Gothenburg, Sweden, from June 4 (early afternoon) until June 7, 2018 (evening).
+The FOSD meeting 2018 will take place in Gothenburg, Sweden, from June 3 (early afternoon) until June 6, 2018 (evening).
 
 [Prof. Myra Cohen](https://cse.unl.edu/~myra/) will give a keynote. For detailed information about the meeting, visit our Website http://fosd.net/2018
 
@@ -46,7 +46,7 @@ Gothenburg, Sweden
 There will be a flat registration fee that covers your stay, all meals, and the social event on Tuesday afternoon.
 We will try to organize some drinks at cost price for the evenings. We will organize hotel reservation and payment centrally, covered via the registration fee.
 
-We expect that most participants will arrive Sunday morning (or stay after ICSE and rest for one day) and that depart Thursday morning.
+We expect that most participants will arrive Sunday morning (or stay after ICSE and rest for one day) and that depart Thursday morning. 
 
 <iframe id="gmaps_iframe" src="https://www.google.com/maps/d/u/0/embed?mid=12wUdM3p8OOwO0XIvDJo-c7W2r9k7f42e"></iframe>
 
@@ -64,7 +64,7 @@ There is also a convenient airport bus service that connects Landvetter Airport 
 Prof. Myra Cohen (<https://cse.unl.edu/~myra/>)
 
 ## Schedule
-The meeting will run from June 4 (early afternoon) until June 7 (evening) and includes a social event on June 6 (afternoon). We will release the exact timeslots closer to the meeting (depending on the number of participants) and will release the exact presentation order at the workshop itself.
+The meeting will run from June 3 (early afternoon) until June 6 (evening) and includes a social event on June 5 (afternoon). We will release the exact timeslots closer to the meeting (depending on the number of participants) and will release the exact presentation order at the workshop itself.
 
 ## VISA Information
 If you are a non EU citizen, please find if you need a visa for entering Sweden and Schengen Area.
@@ -75,8 +75,8 @@ For abstract submission please send an e-mail with title and abstract (text only
 For other questions please send an e-mail to Thorsten Berger:  <thorsten.berger@chalmers.se>.
 
 ## Organizers
-Thorsten Berger <thorsten.berger@chalmers.se> (General Chair)  
-Shurui Zhou <shuruiz@cs.cmu.edu> (Program)  
+Thorsten Berger <thorsten.berger@chalmers.se>
+Shurui Zhou <shuruiz@cs.cmu.edu>
 Christian Kästner <kaestner@cs.cmu.edu>  
 Sven Apel <apel@uni-passau.de>  
 Georg Seibt <seibt@fim.uni-passau.de>
