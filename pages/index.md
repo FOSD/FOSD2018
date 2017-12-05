@@ -35,14 +35,13 @@ Group picture from last year:
 ![participants 2017]({% link assets/img/participants.jpg %})
 
 ## Location & Travel Information
-The FOSD Meeting 2018 will take place at Chalmers Technical University in Gothenburg, Sweden. Specifically, it will be held at Campus Johanneberg (http://www.chalmers.se/en/about-chalmers/premises-and-campus/Pages/find-your-way-to-chalmers.aspx), which is the larger one of the two Chalmers Campus (the smaller one is at Lindholmen).
+The FOSD Meeting 2018 will take place at Chalmers Technical University in Gothenburg, Sweden. Specifically, it will be held at Campus Johanneberg (<http://www.chalmers.se/en/about-chalmers/premises-and-campus/Pages/find-your-way-to-chalmers.aspx>), which is the larger one of the two Chalmers Campus (the smaller one is at Lindholmen).
 
 All participants will stay in the Quality Hotel Panorama, just a 900m away from the campus:
 
-Quality Hotel Panorama Gothenburg
-Eklandagatan 51-53
+[Quality Hotel Panorama Gothenburg](http://quality-hotel-panorama.gothenburg-hotels.com/en/)  
+Eklandagatan 51-53  
 Gothenburg, Sweden
-http://quality-hotel-panorama.gothenburg-hotels.com/en/
 
 There will be a flat registration fee that covers your stay, all meals, and the social event on Tuesday afternoon.
 We will try to organize some drinks at cost price for the evenings. We will organize hotel reservation and payment centrally, covered via the registration fee.
@@ -56,19 +55,16 @@ Exit the train at the central station/the Nils Ericsson terminal.  Take bus 16, 
 
 ### Arrival via Air
 Landvetter Airport in Gothenburg has daily flights to and from most major European cities. It is possible to take a Taxi from the airport directly to the hotel, and the price from the airport to the city center is around SEK 400 (45€).
-http://www.taxigoteborg.se/En/Home
+<http://www.taxigoteborg.se/En/Home>
 
 There is also a convenient airport bus service that connects Landvetter Airport to the Central Station in Gothenburg. The bus stop is right outside the airport’s entrance and 2-4 buses run every hour. The travel time to the Central Station is about 30 minutes, and the trip costs SEK 105 (approximately 11 €). The buses are called Flygbussarna and tickets can be purchased online (and shown to the driver on the mobile phone), via totems at the airport, or directly on the bus (a bit more expensive). If you want to use these busses to get to Chalmers Johanneberg Campus or to the hotel, get off the airport bus at station Korsvägen. It is the first stop when the bus arrives Gothenburg, after only 15min travel time.
-https://www.flygbussarna.se/en/landvetter 
-
+<https://www.flygbussarna.se/en/landvetter> 
 
 ## Keynote Speakers
-Prof. Myra Cohen (https://cse.unl.edu/~myra/)
+Prof. Myra Cohen (<https://cse.unl.edu/~myra/>)
 
 ## Schedule
-
 The meeting will run from June 4 (early afternoon) until June 7 (evening) and includes a social event on June 6 (afternoon). We will release the exact timeslots closer to the meeting (depending on the number of participants) and will release the exact presentation order at the workshop itself.
-
 
 ## VISA Information
 If you are a non EU citizen, please find if you need a visa for entering Sweden and Schengen Area.
@@ -83,5 +79,4 @@ Thorsten Berger <thorsten.berger@chalmers.se> (General Chair)
 Shurui Zhou <shuruiz@cs.cmu.edu> (Program)  
 Christian Kästner <kaestner@cs.cmu.edu>  
 Sven Apel <apel@uni-passau.de>  
-Georg Seibt <seibt@fim.uni-passau.de> 
-
+Georg Seibt <seibt@fim.uni-passau.de>
