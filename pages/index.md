@@ -75,13 +75,13 @@ If you are a non EU citizen, please find if you need a visa for entering Sweden 
 A list for citizen of countries that need a visa can be found here [Do I need a visa?](https://www.schengenvisainfo.com/who-needs-schengen-visa/). Contact Thorsten if you need an invitation letter.
 
 ## Contact
-For abstract submission please send an e-mail with title and abstract (text only, half page max, no attachment) to Shurui Zhou:  <shuruiz@cs.cmu.edu>. <br />
+For abstract submission please send an e-mail with title and abstract (text only, half page max, no attachment) to Shurui Zhou:  <shuruiz@cs.cmu.edu>.  
 For other questions please send an e-mail to Thorsten Berger:  <thorsten.berger@chalmers.se>.
 
 ## Organizers
-Thorsten Berger <thorsten.berger@chalmers.se> (General Chair)<br />
-Shurui Zhou <shuruiz@cs.cmu.edu> (Program)<br />
-Christian Kästner <kaestner@cs.cmu.edu>  <br />
-Sven Apel <apel@uni-passau.de><br />
+Thorsten Berger <thorsten.berger@chalmers.se> (General Chair)  
+Shurui Zhou <shuruiz@cs.cmu.edu> (Program)  
+Christian Kästner <kaestner@cs.cmu.edu>  
+Sven Apel <apel@uni-passau.de>  
 Georg Seibt <seibt@fim.uni-passau.de> 
 
