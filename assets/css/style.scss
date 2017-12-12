@@ -5,11 +5,8 @@
 
 // Define the background image for the site header.
 .page-header {
-  background: #ffffff url({{ "/assets/img/" | append: site.header_image | relative_url }})no-repeat center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: #ffffff url({{ "/assets/img/" | append: site.header_image | relative_url }};}) no-repeat;
+  background-size: 100% 100%;
 }
 
 // Make name and tagline bigger.
