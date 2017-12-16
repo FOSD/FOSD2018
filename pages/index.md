@@ -13,7 +13,7 @@ The key is to encourage discussions, to receive feedback and to create a network
 
 Every year there is an informal competition, the FOSD Cool Wall (see [fosd.net](http://fosd.net)), where everyone votes for the coolest name of a tool that has been presented during the meeting.
 
-The FOSD meeting 2018 will take place in Gothenburg, Sweden, from June 3 (early afternoon) until June 6, 2018 (evening).
+The FOSD meeting 2018 will take place in Gothenburg, Sweden, from June 3 (early afternoon) until June 6, 2018 (evening). Some invitation emails contained slightly different dates, sorry.
 
 **The deadline for the abstract is February 1, 2018.**
 FOSD does not require any paper submission and does not have proceedings, though we do expect an abstract about the research that is to be presented and an e-mail address of the participant.
