@@ -59,8 +59,8 @@ There is also a convenient airport bus service that connects Landvetter Airport 
 <https://www.flygbussarna.se/en/landvetter> 
 
 ## Keynote Speakers
-Umut Tezduyar Lindskog, Axis Communications, Lund, Sweden
-Prof. Myra Cohen, University of Nebraska-Lincoln, USA (<https://cse.unl.edu/~myra/>)
+* Umut Tezduyar Lindskog, Axis Communications, Lund, Sweden
+* Prof. Myra Cohen, University of Nebraska-Lincoln, USA (<https://cse.unl.edu/~myra/>)
 
 ## Schedule
 The meeting will run from June 3 (early afternoon) until June 6 (evening) and includes a social event on June 5 (afternoon). We will release the exact timeslots closer to the meeting (depending on the number of participants) and will release the exact presentation order at the workshop itself.
