@@ -13,9 +13,7 @@ The key is to encourage discussions, to receive feedback and to create a network
 
 Every year there is an informal competition, the FOSD Cool Wall (see [fosd.net](http://fosd.net)), where everyone votes for the coolest name of a tool that has been presented during the meeting.
 
-The FOSD meeting 2018 will take place in Gothenburg, Sweden, from June 3 (early afternoon) until June 6, 2018 (evening).
-
-[Prof. Myra Cohen](https://cse.unl.edu/~myra/) will give a keynote. For detailed information about the meeting, visit our Website http://fosd.net/2018
+The FOSD meeting 2018 will take place in Gothenburg, Sweden, from June 3 (early afternoon) until June 6, 2018 (evening). Some invitation emails contained slightly different dates, sorry.
 
 **The deadline for the abstract is February 1, 2018.**
 FOSD does not require any paper submission and does not have proceedings, though we do expect an abstract about the research that is to be presented and an e-mail address of the participant.
@@ -32,7 +30,7 @@ Please prepare slides that do not require more than 13 minutes of presentation s
 We will enforce the 13 min time limit strictly.
 
 Group picture from last year:
-![participants 2017]({% link assets/img/participants.jpg %})
+![participants 2017](https://fosd.github.io/FOSD2018/assets/img/participants.jpg)
 
 ## Location & Travel Information
 The FOSD Meeting 2018 will take place at Chalmers Technical University in Gothenburg, Sweden. Specifically, it will be held at Campus Johanneberg (<http://www.chalmers.se/en/about-chalmers/premises-and-campus/Pages/find-your-way-to-chalmers.aspx>), which is the larger one of the two Chalmers Campus (the smaller one is at Lindholmen).
@@ -61,7 +59,8 @@ There is also a convenient airport bus service that connects Landvetter Airport 
 <https://www.flygbussarna.se/en/landvetter> 
 
 ## Keynote Speakers
-Prof. Myra Cohen (<https://cse.unl.edu/~myra/>)
+* Umut Tezduyar Lindskog, Axis Communications, Lund, Sweden
+* Prof. Myra Cohen, University of Nebraska-Lincoln, USA (<https://cse.unl.edu/~myra/>)
 
 ## Schedule
 The meeting will run from June 3 (early afternoon) until June 6 (evening) and includes a social event on June 5 (afternoon). We will release the exact timeslots closer to the meeting (depending on the number of participants) and will release the exact presentation order at the workshop itself.
