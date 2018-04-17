@@ -59,7 +59,7 @@ There is also a convenient airport bus service that connects Landvetter Airport 
 <https://www.flygbussarna.se/en/landvetter> 
 
 ## Keynote Speakers
-* Umut Tezduyar Lindskog, Axis Communications, Lund, Sweden
+* Umut Tezduyar Lindskog, Axis Communications, Lund, Sweden; keynote title: 1 Platform, 250 Products, 1000 Software Releases
 * Prof. Myra Cohen, University of Nebraska-Lincoln, USA (<https://cse.unl.edu/~myra/>)
 
 ## Schedule
