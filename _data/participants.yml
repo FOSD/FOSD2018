@@ -1,9 +1,144 @@
-- firstname: Alexander
-  lastname: Grebhahn
-  title: A Comparison Study on the Influence of Sampling and Learning Approaches on the Accuracy of Performance Predictions
+
+- name:  Sebastian Böhm	
+  title: Automata-Guided Reuse of Abstraction Precisions for Variant Verification	
   university: University of Passau
 
-- firstname: Alexander
-  lastname: Knüppel
-  title: Is There a Mismatch Between Real-World Feature Models and Product-Line Research?
+- name:  Andreas Stahlbauer	
+  title: "Variable Variability-aware Verification: An Empirical Study"
+  university: University of Passau
+
+- name:  Thomas Bock	
+  title: Feature-Development Activity of Core and Peripheral Developers within the Release Cycle of Mozilla Firefox	
+  university: University of Passau
+
+- name:  Florian Sattler	
+  title: A data-flow-based taint analysis to detect feature regions with VaRA	
+  university: University of Passau
+
+- name:  Bastian Fleischmann	
+  title: Meta-Learning for Performance Prediction on Configurable Software Systems	
+  university: University of Passau
+
+- name:  Sven Apel
+  title: Visualizing and Comparing Performance Influence Models	
+  university: University of Passau
+
+- name:  Christian Kaltenecker	
+  title: Distribution-Aware Sampling	
+  university: University of Passau
+
+- name:  Alexander Grebhahn	
+  title: A (Semi-)Automatic Mechanism to Generate Variants of Existing Framework Applications	
+  university: University of Passau
+
+- name:  Georg Seibt	
+  title: "Integrating Versions and Variants: An Empirical Study on Merge, Build, and Test Conflicts	"
+  university: University of Passau
+
+- name:  Gustavo do Vale	
+  title: On The Relation Between Merge Conflicts and Coordination Activities	
+  university: University of Passau
+
+- name:  Ina Schaefer	
+  title: Correctness-by-Construction for Software Product Lines	
   university: TU Braunschweig
+
+- name:  Jeffrey Young	
+  title: Variational Satisfiability Solving	
+  university: Oregon State University
+
+- name:  Alexander Knüppel	
+  title: "Understanding Parameters of Deductive Verification: An Empirical Investigation of KeY"
+  university: TU Braunschweig
+
+- name:  Thomas Thüm	
+  title: Explaining Satisfiability Queries for Software Product Lines	
+  university: TU Braunschweig
+
+- name:  Mukelabai Mukelabai	
+  title: "Analysis of Software Product Lines: An Investigation of Industrial Practice and Needs"	
+  university: Chalmers | University of Gothenburg
+
+- name:  JACOB KRÜGER	
+  title: "Thinking in Features: How Do Developers Remember Source Code?"	
+  university: Hochschule Harz – University
+
+- name:  Hendrik Speidel	
+  title: Using feature-oriented techniques to compose semi-structured text documents	
+  university: schnapptack GmbH
+
+- name:  Florian Niederhuber	
+  title: Change-Region Detection using VaRA and LLVM	
+  university: University of Passau
+
+- name:  Alexander Schlie	
+  title: Comparing Multiple MATLAB/Simulink Models Using Static Connectivity Matrix Analysis	
+  university: TU Braunschweig
+
+- name:  Max Weber	
+  title: Supporting the Discovery of Energy Hot-Spots via Performance Alignment	
+  university: University of Weimar
+
+- name:  Miguel Velez	
+  title: Identifying Relevant Options and Interactions for Efficient Performance Modeling of Highly Configurable Systems	
+  university: Carnegie Mellon
+
+- name:  Norbert Siegmund	
+  title: "Pervolution: Performance Evolution of Configurable Software Systems"
+  university: University of Weimar
+
+- name:  Lars Luthmann	
+  title: Sampling Strategies for Infinite Configuration Spaces (joint work with Malte Lochau)	
+  university: TU Darmstadt
+
+- name:  Tobias Runge	
+  title: A Classification and Taxonomy of Product Sampling for Software Product Lines	
+  university: TU Braunschweig
+
+- name:  Chu-Pan Wong	
+  title: "Faster, Higher, Stronger Variational Execution"
+  university: Carnegie Mellon
+
+- name:  Jens Meinicke	
+  title: Lightweight generation of variational traces from single executions	
+  university: Otto von Guericke University Magdeburg
+
+- name:  Larissa Rocha Soares	
+  title: "VarXplorer: Reasoning About Feature Interactions"	
+  university: Federal University of Bahia
+
+- name:  Juliane Fischer	
+  title: Configurable component description and retrieval using FeatureIDE	
+  university: Technical University of Munich
+
+- name:  Sandro Schulze	
+  title: The Sky is the Limit — Comprehensive Variability Mining Using Round-trip Engineering	
+  university: Otto von Guericke University Magdeburg
+
+- name:  Yang Li	
+  title: Variability Extraction from Natural Language Requirements	
+  university: Otto von Guericke University Magdeburg
+
+- name:  Sandra Greiner	
+  title: Strengths and Weaknesses of Trace-Based Approaches Propagating Feature Annotations in Model Transformations	
+  university: Uni Bayreuth
+
+- name:  Sebastian Krieter	
+  title: "Managing Variability On-The-Fly: Keeping Feature Model and Variable Source Code Aligned"	
+  university: Otto von Guericke University Magdeburg
+
+- name:  Thorsten Berger	
+  title: Merge Conflicts and their Resolutions in Branch-Based Development	
+  university: Chalmers | University of Gothenburg
+
+- name:  Shurui Zhou	
+  title: Identifying redundancies in Fork-based Development	
+  university: Carnegie Mellon
+
+- name:  Christian Kästner	
+  title: Compositional Analysis of Security-Relevant Configuration Options	
+  university: Carnegie Mellon
+
+- name:  Mahsa Varshosaz	
+  title: Delta-Oriented FSM-Based Testing	
+  university: Halmstad University

@@ -20,6 +20,25 @@ FOSD does not require any paper submission and does not have proceedings, though
 Due to space restrictions, we may have to select participants, but we will send notifications shortly after the abstract deadline.
 If you need more lead time for visa application or travel planning, reach out to us.
 
+### Talks
+
+
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Title</th>
+    <th>University</th>
+  </tr>
+  {% for item in site.data.participants %}
+  <tr>
+   <td width="20%">{{item.name}}</td>
+   <td width="70%">{{item.title}}</td>
+   <td width="10%">{{item.university}}</td>
+  </tr>
+ {% endfor %}
+
+</table>
 
 
 
