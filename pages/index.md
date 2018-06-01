@@ -57,7 +57,7 @@ Meeting room:
 Fysikhuset, room FL51
 Fysikgården 3,
 Göteborg
-https://goo.gl/maps/HZ1x1HBsFEJ2
+[google map](https://goo.gl/maps/HZ1x1HBsFEJ2)
 
 All participants will stay in the Quality Hotel Panorama, just a 900m away from the campus:
 
