@@ -52,6 +52,7 @@ Group picture from last year:
 
 ## Location & Travel Information
 The FOSD Meeting 2018 will take place at Chalmers Technical University in Gothenburg, Sweden. Specifically, it will be held at Campus Johanneberg (<http://www.chalmers.se/en/about-chalmers/premises-and-campus/Pages/find-your-way-to-chalmers.aspx>), which is the larger one of the two Chalmers Campus (the smaller one is at Lindholmen).
+
 Meeting room:
 Fysikhuset, room FL51
 Fysikgården 3,
