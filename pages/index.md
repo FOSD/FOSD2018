@@ -52,6 +52,11 @@ Group picture from last year:
 
 ## Location & Travel Information
 The FOSD Meeting 2018 will take place at Chalmers Technical University in Gothenburg, Sweden. Specifically, it will be held at Campus Johanneberg (<http://www.chalmers.se/en/about-chalmers/premises-and-campus/Pages/find-your-way-to-chalmers.aspx>), which is the larger one of the two Chalmers Campus (the smaller one is at Lindholmen).
+Meeting room:
+Fysikhuset, room FL51
+Fysikgården 3,
+Göteborg
+https://goo.gl/maps/HZ1x1HBsFEJ2
 
 All participants will stay in the Quality Hotel Panorama, just a 900m away from the campus:
 
@@ -81,7 +86,7 @@ There is also a convenient airport bus service that connects Landvetter Airport 
 * Prof. Myra Cohen, University of Nebraska-Lincoln, USA (<https://cse.unl.edu/~myra/>)
 
 ## Schedule
-The meeting will run from June 3 (early afternoon) until June 6 (evening) and includes a social event on June 5 (afternoon). We will release the exact timeslots closer to the meeting (depending on the number of participants) and will release the exact presentation order at the workshop itself.
+The meeting will run from June 3 (1pm) until June 6 (evening) and includes a social event on June 5 (afternoon). We will release the exact timeslots closer to the meeting (depending on the number of participants) and will release the exact presentation order at the workshop itself.
 
 ## VISA Information
 If you are a non EU citizen, please find if you need a visa for entering Sweden and Schengen Area.
