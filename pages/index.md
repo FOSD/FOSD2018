@@ -87,7 +87,7 @@ There is also a convenient airport bus service that connects Landvetter Airport 
 * Prof. Myra Cohen, University of Nebraska-Lincoln, USA (<https://cse.unl.edu/~myra/>)
 
 ## Schedule
-The meeting will run from June 3 (1pm) until June 6 (evening) and includes a social event on June 5 (afternoon). We will release the exact timeslots closer to the meeting (depending on the number of participants) and will release the exact presentation order at the workshop itself.
+The meeting will run from June 3 (1pm) until June 6 (evening) and includes a social event on June 5 (afternoon). We will release the exact presentation order at the workshop itself.
 
 {% for conf_day in site.data.schedule %}
 #### Schedule {{ conf_day.day | date: "%A, %b %e" }}
