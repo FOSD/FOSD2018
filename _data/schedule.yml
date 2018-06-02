@@ -1,28 +1,154 @@
-- day: March 14, 2017
+- day: June 3, 2018
   sessions:
-    - from: "8:30"
-      to: "10:00"
-      chair: Sven Apel
+    - from: "2:00"
+      to: "3:15"
+      chair: 
       talks:
-        - speaking: Christian Kästner, Sven Apel, Malte Lochau
-          title: Opening
-        - speaking: Nobert Siegmund
-          title: Automated Configuration of Machine-Learning Software
-
-    - from: "10:40"
-      to: "12:20"
-      chair: Norbert Siegmund
+        - speaking: Florian Sattler
+          title: "A data-flow-based taint analysis to detect feature regions with VaRA"
+        - speaking: Alexander Schlie
+          title: Comparing Multiple MATLAB/Simulink Models Using Static Connectivity Matrix Analysis
+        - speaking: Yang Li
+          title: Variability Extraction from Natural Language Requirements
+    - from: "3:40"
+      to: "4:30"
+      chair:  
       talks:
-        - speaking: Paul Gazzillo
-          title: Enabling Variability-Aware Software Tools
-        - speaking: Shurui Zhou
-          title: "INFOX: Identifying Features from Forks"
+        - speaking: Max Weber
+          title: "Supporting the Discovery of Performance Hot-Spots"
+        - speaking: Bastian Fleischmann
+          title: "Meta-Learning for Performance Prediction on Configurable Software Systems"
+    - from: "4:45"
+      to: "5:35"
+      chair:  
+      talks:
+        - speaking: Sandro Schulze
+          title: "The Sky is the Limit — Comprehensive Variability Mining Using Round-trip Engineering"
+        - speaking: Juliane Fischer
+          title: "Configurable component description and retrieval using FeatureIDE"
 
-- day: March 15, 2017
+- day: June 4, 2018
   sessions:
-    - from: "8:30"
-      to: "10:40"
-      chair: Christian Kaestner
+    - from: "9:00"
+      to: "10:15"
       talks:
-        - speaking: Julia Lawall
-          title: Practical impacts of variability in the Linux kernel (Keynote)
+        - speaking: Umut Tezduyar Lindskog
+          title: TBD (Keynote)
+    - from: "10:45"
+      to: "12:00"
+      chair: 
+      talks:
+        - speaking: speaker1 
+          title: TBD  
+        - speaking: speaker2
+          title: TBD
+        - speaking: speaker3
+          title: TBD  
+    - from: "1:30"
+      to: "2:45"
+      chair: TBD  
+      talks: 
+        - speaking: speaker1 
+          title: TBD  
+        - speaking: speaker2
+          title: TBD
+        - speaking: speaker3
+          title: TBD  
+    - from: "3:10"
+      to: "4:00"
+      chair: TBD 
+      talks:  
+        - speaking: speaker1 
+          title: TBD  
+        - speaking: speaker2
+          title: TBD
+    - from: "4:15"
+      to: "5:05"
+      chair: TBD  
+      talks:  
+        - speaking: speaker1 
+          title: TBD  
+        - speaking: speaker2
+          title: TBD 
+
+- day: June 5, 2018
+  sessions:
+    - from: "9:00"
+      to: "10:15"
+      talks:
+        - speaking: speaker1 
+          title: TBD  
+        - speaking: speaker2
+          title: TBD
+        - speaking: speaker3
+          title: TBD  
+    - from: "10:45"
+      to: "12:00"
+      chair: 
+      talks:
+        - speaking: speaker1 
+          title: TBD  
+        - speaking: speaker2
+          title: TBD
+        - speaking: speaker3
+          title: TBD  
+    - from: "1:30"
+      to: "3:35"
+      chair: TBD  
+      talks: 
+        - speaking: speaker1 
+          title: TBD  
+        - speaking: speaker2
+          title: TBD
+        - speaking: speaker3
+          title: TBD  
+        - speaking: speaker4
+          title: TBD  
+    - from: "3:50"
+      to: "6:00"
+      talks: 
+        - speaking: Social event
+          title: The Liseberg Amusement Park
+- day: June 6, 2018
+  sessions:
+    - from: "9:00"
+      to: "10:15"
+      talks:
+        - speaking: Myra Cohen
+          title: TBD (Keynote)
+    - from: "10:45"
+      to: "12:00"
+      chair: 
+      talks:
+        - speaking: speaker1 
+          title: TBD  
+        - speaking: speaker2
+          title: TBD
+        - speaking: speaker3
+          title: TBD  
+    - from: "1:30"
+      to: "2:45"
+      chair: TBD  
+      talks: 
+        - speaking: speaker1 
+          title: TBD  
+        - speaking: speaker2
+          title: TBD
+        - speaking: speaker3
+          title: TBD  
+    - from: "3:10"
+      to: "4:00"
+      chair: TBD 
+      talks:  
+        - speaking: speaker1 
+          title: TBD  
+        - speaking: speaker2
+          title: TBD
+    - from: "4:15"
+      to: "4:45"
+      chair:   
+      talks:  
+        - speaking: Thorsten Berger 
+          title: TBD
+        - speaking: Thorsten Berger
+          title: FOSD Meeting 2018 Ending  

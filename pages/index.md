@@ -89,6 +89,18 @@ There is also a convenient airport bus service that connects Landvetter Airport 
 ## Schedule
 The meeting will run from June 3 (1pm) until June 6 (evening) and includes a social event on June 5 (afternoon). We will release the exact timeslots closer to the meeting (depending on the number of participants) and will release the exact presentation order at the workshop itself.
 
+{% for conf_day in site.data.schedule %}
+#### Schedule {{ conf_day.day | date: "%A, %b %e" }}
+{% for session in conf_day.sessions %}
+Session: {{ session.from | date: "%R" }} - {{ session.to | date: "%R" }}, Chair: {{ session.chair }}
+{% for talk in session.talks %}
+* **{{ talk.speaking }}**: {{ talk.title }}
+{% endfor %}
+{% endfor %}
+{% endfor %}
+
+
+
 ## VISA Information
 If you are a non EU citizen, please find if you need a visa for entering Sweden and Schengen Area.
 A list for citizen of countries that need a visa can be found here [Do I need a visa?](https://www.schengenvisainfo.com/who-needs-schengen-visa/). Contact Thorsten if you need an invitation letter.
