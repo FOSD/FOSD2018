@@ -4,20 +4,21 @@
       to: "3:15"
       chair: 
       talks:
+        - speaking: Openning
+          title: Thorsten Berger, Sven Apel, Christian Kästner
         - speaking: Florian Sattler
           title: "A data-flow-based taint analysis to detect feature regions with VaRA"
         - speaking: Alexander Schlie
           title: Comparing Multiple MATLAB/Simulink Models Using Static Connectivity Matrix Analysis
-        - speaking: Yang Li
-          title: Variability Extraction from Natural Language Requirements
     - from: "3:40"
       to: "4:30"
       chair:  
       talks:
         - speaking: Max Weber
           title: "Supporting the Discovery of Performance Hot-Spots"
-        - speaking: Bastian Fleischmann
-          title: "Meta-Learning for Performance Prediction on Configurable Software Systems"
+        - speaking: Yang Li
+          title: Variability Extraction from Natural Language Requirements
+    - from: "3:40"
     - from: "4:45"
       to: "5:35"
       chair:  
