@@ -20,7 +20,7 @@
           title: Variability Extraction from Natural Language Requirements
     - from: "4:45"
       to: "5:35"
-      chair:  
+      chair: Shurui Zhou
       talks:
         - speaking: Sandro Schulze
           title: "The Sky is the Limit — Comprehensive Variability Mining Using Round-trip Engineering"
@@ -31,12 +31,13 @@
   sessions:
     - from: "9:00"
       to: "10:15"
+      chair: Thorsten Berger
       talks:
         - speaking: Umut Tezduyar Lindskog
           title: TBD (Keynote)
     - from: "10:45"
       to: "12:00"
-      chair: 
+      chair: Jens Meinicke
       talks:
         - speaking: Ina Schaefer 
           title: "Correctness-by-Construction for Software Product Lines"  
@@ -46,7 +47,7 @@
           title: "Automata-Guided Reuse of Abstraction Precisions for Variant Verification"  
     - from: "1:30"
       to: "2:45"
-      chair: TBD  
+      chair: Larissa Rocha Soares  
       talks: 
         - speaking: Sven Apel 
           title: Visualizing and Comparing Performance Influence Models  
