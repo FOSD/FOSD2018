@@ -38,38 +38,38 @@
       to: "12:00"
       chair: 
       talks:
-        - speaking: speaker1 
-          title: TBD  
-        - speaking: speaker2
-          title: TBD
-        - speaking: speaker3
-          title: TBD  
+        - speaking: Ina Schaefer 
+          title: "Correctness-by-Construction for Software Product Lines"  
+        - speaking: Jeffrey Young
+          title: Variational Satisfiability Solving
+        - speaking: Sebastian Böhm
+          title: "Automata-Guided Reuse of Abstraction Precisions for Variant Verification"  
     - from: "1:30"
       to: "2:45"
       chair: TBD  
       talks: 
-        - speaking: speaker1 
-          title: TBD  
-        - speaking: speaker2
-          title: TBD
-        - speaking: speaker3
-          title: TBD  
+        - speaking: Sven Apel 
+          title: Visualizing and Comparing Performance Influence Models  
+        - speaking: Georg Seibt
+          title: "Integrating Versions and Variants: An Empirical Study on Merge, Build, and Test Conflicts"
+        - speaking: Sandra Greiner
+          title: "Strengths and Weaknesses of Trace-Based Approaches Propagating Feature Annotations in Model Transformations"  
     - from: "3:10"
       to: "4:00"
       chair: TBD 
       talks:  
-        - speaking: speaker1 
-          title: TBD  
-        - speaking: speaker2
-          title: TBD
+        - speaking: Bastian Fleischmann 
+          title: "Meta-Learning for Performance Prediction on Configurable Software Systems"  
+        - speaking: Tobias Runge
+          title: "A Classification and Taxonomy of Product Sampling for Software Product Lines"
     - from: "4:15"
       to: "5:05"
       chair: TBD  
       talks:  
-        - speaking: speaker1 
-          title: TBD  
-        - speaking: speaker2
-          title: TBD 
+        - speaking: Florian Niederhuber 
+          title: "Change-Region Detection using VaRA and LLVM"  
+        - speaking: Mukelabai Mukelabai
+          title: "Analysis of Software Product Lines: An Investigation of Industrial Practice and Needs" 
 
 - day: June 5, 2018
   sessions:
