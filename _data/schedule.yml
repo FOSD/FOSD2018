@@ -2,7 +2,7 @@
   sessions:
     - from: "2:00"
       to: "3:15"
-      chair: 
+      chair: Christian Kästner
       talks:
         - speaking: Openning
           title: Thorsten Berger, Sven Apel, Christian Kästner
@@ -12,7 +12,7 @@
           title: Comparing Multiple MATLAB/Simulink Models Using Static Connectivity Matrix Analysis
     - from: "3:40"
       to: "4:30"
-      chair:  
+      chair: Andreas Stahlbauer
       talks:
         - speaking: Max Weber
           title: "Supporting the Discovery of Performance Hot-Spots"
