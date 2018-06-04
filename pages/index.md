@@ -89,10 +89,15 @@ There is also a convenient airport bus service that connects Landvetter Airport 
 ## Schedule
 The meeting will run from June 3 (1pm) until June 6 (evening) and includes a social event on June 5 (afternoon). We will release the exact presentation order at the workshop itself.
 
+Meeting room for June 5th:
+EL 43 in the Edit Building
+
+
 {% for conf_day in site.data.schedule %}
 #### Schedule {{ conf_day.day | date: "%A, %b %e" }}
+Address: **{{conf_day.address}}**
 {% for session in conf_day.sessions %}
-Session: {{ session.from | date: "%R" }} - {{ session.to | date: "%R" }}, Chair: {{ session.chair }}
+Session: {{ session.from | date: "%R" }} - {{ session.to | date: "%R" }}, Chair: {{ session.chair }} 
 {% for talk in session.talks %}
 * **{{ talk.speaking }}**: {{ talk.title }}
 {% endfor %}
