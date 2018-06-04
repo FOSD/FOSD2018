@@ -57,7 +57,7 @@
           title: "Strengths and Weaknesses of Trace-Based Approaches Propagating Feature Annotations in Model Transformations"  
     - from: "3:10"
       to: "4:00"
-      chair: TBD 
+      chair: Sebastian Böhm 
       talks:  
         - speaking: Bastian Fleischmann 
           title: "Meta-Learning for Performance Prediction on Configurable Software Systems"  
@@ -65,7 +65,7 @@
           title: "A Classification and Taxonomy of Product Sampling for Software Product Lines"
     - from: "4:15"
       to: "5:05"
-      chair: TBD  
+      chair: Juliane Fischer  
       talks:  
         - speaking: Florian Niederhuber 
           title: "Change-Region Detection using VaRA and LLVM"  
@@ -77,34 +77,34 @@
     - from: "9:00"
       to: "10:15"
       talks:
-        - speaking: speaker1 
-          title: TBD  
-        - speaking: speaker2
-          title: TBD
-        - speaking: speaker3
-          title: TBD  
+        - speaking: Alexander Grebhahn 
+          title: "A (Semi-)Automatic Mechanism to Generate Variants of Existing Framework Applications"  
+        - speaking: Christian Kaltenecker
+          title: "Distribution-Aware Sampling"
+        - speaking: Lars Luthmann
+          title: "Sampling Strategies for Infinite Configuration Spaces"  
     - from: "10:45"
       to: "12:00"
       chair: 
       talks:
-        - speaking: speaker1 
-          title: TBD  
-        - speaking: speaker2
-          title: TBD
-        - speaking: speaker3
-          title: TBD  
+        - speaking: Andreas Stahlbauer 
+          title: "Variable Variability-aware Verification: An Empirical Study"  
+        - speaking: Gustavo do Vale
+          title: "On The Relation Between Merge Conflicts and Coordination Activities"
+        - speaking: Jens Meinicke
+          title: "Lightweight generation of variational traces from single executions"  
     - from: "1:30"
       to: "3:35"
       chair: TBD  
       talks: 
-        - speaking: speaker1 
-          title: TBD  
-        - speaking: speaker2
-          title: TBD
-        - speaking: speaker3
-          title: TBD  
-        - speaking: speaker4
-          title: TBD  
+        - speaking: Norbert Siegmund 
+          title: "Pervolution: Performance Evolution of Configurable Software Systems"  
+        - speaking: Larissa Rocha Soares
+          title: "VarXplorer: Reasoning About Feature Interactions"
+        - speaking: JACOB KRÜGER
+          title: "Thinking in Features: How Do Developers Remember Source Code?"  
+        - speaking: Hendrik Speidel
+          title: "Using feature-oriented techniques to compose semi-structured text documents"  
     - from: "3:50"
       to: "6:00"
       talks: 
