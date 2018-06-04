@@ -69,8 +69,8 @@
       talks:  
         - speaking: Florian Niederhuber 
           title: "Change-Region Detection using VaRA and LLVM"  
-        - speaking: Mukelabai Mukelabai
-          title: "Analysis of Software Product Lines: An Investigation of Industrial Practice and Needs" 
+        - speaking: Thorsten Berger
+          title: "A Classification of Variation Control System" 
 
 - day: June 5, 2018
   sessions:
