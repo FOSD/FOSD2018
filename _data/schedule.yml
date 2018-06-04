@@ -76,6 +76,7 @@
   sessions:
     - from: "9:00"
       to: "10:15"
+      chair: Jeffrey Young
       talks:
         - speaking: Alexander Grebhahn 
           title: "A (Semi-)Automatic Mechanism to Generate Variants of Existing Framework Applications"  
@@ -85,7 +86,7 @@
           title: "Sampling Strategies for Infinite Configuration Spaces"  
     - from: "10:45"
       to: "12:00"
-      chair: 
+      chair: Chu-Pan Wong
       talks:
         - speaking: Andreas Stahlbauer 
           title: "Variable Variability-aware Verification: An Empirical Study"  
@@ -95,7 +96,7 @@
           title: "Lightweight generation of variational traces from single executions"  
     - from: "1:30"
       to: "3:35"
-      chair: TBD  
+      chair: Sandra Greiner  
       talks: 
         - speaking: Norbert Siegmund 
           title: "Pervolution: Performance Evolution of Configurable Software Systems"  
@@ -114,12 +115,13 @@
   sessions:
     - from: "9:00"
       to: "10:15"
+      chair: Sven Apel
       talks:
         - speaking: Myra Cohen
           title: TBD (Keynote)
     - from: "10:45"
       to: "12:00"
-      chair: 
+      chair: Max Weber
       talks:
         - speaking: speaker1 
           title: TBD  
@@ -129,7 +131,7 @@
           title: TBD  
     - from: "1:30"
       to: "2:45"
-      chair: TBD  
+      chair:   
       talks: 
         - speaking: speaker1 
           title: TBD  
@@ -139,7 +141,7 @@
           title: TBD  
     - from: "3:10"
       to: "4:00"
-      chair: TBD 
+      chair:  
       talks:  
         - speaking: speaker1 
           title: TBD  
@@ -149,7 +151,7 @@
       to: "4:45"
       chair:   
       talks:  
-        - speaking: Thorsten Berger 
+        - speaking: speaker1
           title: TBD
         - speaking: Thorsten Berger
           title: FOSD Meeting 2018 Ending  
