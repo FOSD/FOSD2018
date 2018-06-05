@@ -80,12 +80,11 @@
     - from: "9:00"
       to: "10:15"
       chair: Jeffrey Young
-      
       talks:
         - speaking: Alexander Grebhahn 
           title: "A (Semi-)Automatic Mechanism to Generate Variants of Existing Framework Applications"  
         - speaking: Christian Kaltenecker
-          title: "Distribution-Aware Sampling"
+          title: "Distance-based Sampling"
         - speaking: Lars Luthmann
           title: "Sampling Strategies for Infinite Configuration Spaces"  
     - from: "10:45"
@@ -106,7 +105,7 @@
           title: "Pervolution: Performance Evolution of Configurable Software Systems"  
         - speaking: Larissa Rocha Soares
           title: "VarXplorer: Reasoning About Feature Interactions"
-        - speaking: JACOB KRÜGER
+        - speaking: Jacob Krueger
           title: "Thinking in Features: How Do Developers Remember Source Code?"  
         - speaking: Hendrik Speidel
           title: "Using feature-oriented techniques to compose semi-structured text documents"  
@@ -127,35 +126,35 @@
       to: "12:00"
       chair: Max Weber
       talks:
-        - speaking: speaker1 
-          title: TBD  
-        - speaking: speaker2
-          title: TBD
-        - speaking: speaker3
-          title: TBD  
+        - speaking: Mukelabai Mukelabai 
+          title: "Analysis of Software Product Lines: An Investigation of Industrial Practice and Needs"  
+        - speaking: Shurui Zhou
+          title: "Identifying redundancies in Fork-based Development"
+        - speaking: Mahsa Varshosaz
+          title: "Delta-Oriented FSM-Based Testing"  
     - from: "1:30"
       to: "2:45"
-      chair:   
+      chair: Sebastian Krieter
       talks: 
-        - speaking: speaker1 
-          title: TBD  
-        - speaking: speaker2
-          title: TBDmax
-        - speaking: speaker3
-          title: TBD  
+        - speaking: Miguel Velez 
+          title: "ConfigCrusher: White-Box Performance Analysis for Configurable Systems"  
+        - speaking: Alexander Knüppel
+          title: "Understanding Parameters of Deductive Verification: An Empirical Investigation of KeY"
+        - speaking: Thomas Thüm
+          title: "Explaining Satisfiability Queries for Software Product Lines"  
     - from: "3:10"
       to: "4:00"
-      chair:  
+      chair: Yang Li  
       talks:  
-        - speaking: speaker1 
-          title: TBD  
-        - speaking: speaker2
-          title: TBD
+        - speaking: Chu-Pan Wong 
+          title: Application of Variational Execution  
+        - speaking: Thomas Bock
+          title: "Feature-Development Activity of Core and Peripheral Developers within the Release Cycle of Mozilla Firefox"
     - from: "4:15"
       to: "4:45"
-      chair:   
+      chair: Mukelabai Mukelabai   
       talks:  
-        - speaking: speaker1
-          title: TBD
-        - speaking: Thorsten Berger
+        - speaking: Sebastian Krieter
+          title: "Managing Variability On-The-Fly: Keeping Feature Model and Variable Source Code Aligned"
+        - speaking: Christian
           title: FOSD Meeting 2018 Ending  
