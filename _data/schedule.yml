@@ -132,8 +132,8 @@
           title: "Analysis of Software Product Lines: An Investigation of Industrial Practice and Needs"  
         - speaking: Shurui Zhou
           title: "Identifying redundancies in Fork-based Development"
-        - speaking: Mahsa Varshosaz
-          title: "Delta-Oriented FSM-Based Testing"  
+        - speaking: Thomas Bock
+          title: "Feature-Development Activity of Core and Peripheral Developers within the Release Cycle of Mozilla Firefox"
     - from: "1:30"
       to: "2:45"
       chair: Sebastian Krieter
@@ -150,8 +150,8 @@
       talks:  
         - speaking: Chu-Pan Wong 
           title: Application of Variational Execution  
-        - speaking: Thomas Bock
-          title: "Feature-Development Activity of Core and Peripheral Developers within the Release Cycle of Mozilla Firefox"
+        - speaking: Mahsa Varshosaz
+          title: "Delta-Oriented FSM-Based Testing"  
     - from: "4:15"
       to: "4:45"
       chair: Mukelabai Mukelabai   
