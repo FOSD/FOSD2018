@@ -143,7 +143,7 @@
         - speaking: Alexander Knüppel
           title: "Understanding Parameters of Deductive Verification: An Empirical Investigation of KeY"
         - speaking: Thomas Thüm
-          title: "Explaining Satisfiability Queries for Software Product Lines"  
+          title: "Product Configuration in the Wild: A Case Study of Real-World Web Configurators"  
     - from: "3:10"
       to: "4:00"
       chair: Yang Li  
