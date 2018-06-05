@@ -113,8 +113,10 @@
       to: "6:00"
       talks: 
         - speaking: Social event
-          title: The Liseberg Amusement Park
+          title: The Liseberg Amusement Park. See Social Event Section [-->link](#social-event)
+
 - day: June 6, 2018
+  address: EDIT Building, use main entrance, follow signs
   sessions:
     - from: "9:00"
       to: "10:15"

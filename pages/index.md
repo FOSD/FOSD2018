@@ -89,10 +89,6 @@ There is also a convenient airport bus service that connects Landvetter Airport 
 ## Schedule
 The meeting will run from June 3 (1pm) until June 6 (evening) and includes a social event on June 5 (afternoon). We will release the exact presentation order at the workshop itself.
 
-Meeting room for June 5th:
-EL 43 in the Edit Building
-
-
 {% for conf_day in site.data.schedule %}
 #### Schedule {{ conf_day.day | date: "%A, %b %e" }}
 Address: **{{conf_day.address}}**
@@ -104,6 +100,9 @@ Session: {{ session.from | date: "%R" }} - {{ session.to | date: "%R" }}, Chair:
 {% endfor %}
 {% endfor %}
 
+### Social Event ###
+ * Meet at 4:30pm at [main entrance to Liseberg](https://goo.gl/maps/3SpZLCxkYS32). 
+ * Dinner at 7pm in [Restaurant Hamnkrogen](https://goo.gl/maps/knUuaqmYYn62) within the park. 
 
 
 ## VISA Information
