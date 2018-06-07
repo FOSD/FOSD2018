@@ -133,10 +133,12 @@
 
 - name:  Shurui Zhou	
   title: Identifying redundancies in Fork-based Development	
+  link: "\"https://docs.google.com/presentation/d/1ABcqO8-E41XzZBSD5mD9X-FoToNEzE97WF1dgJS66xA/edit?usp=sharing\""
   university: Carnegie Mellon
 
 - name:  Christian Kästner	
-  title: Compositional Analysis of Security-Relevant Configuration Options	
+  title: Compositional Analysis of Security-Relevant Configuration Options
+  link: "\"https://docs.google.com/presentation/d/10KX_L7l2WnlyUmXKs5Gk8V5GJQpmo4cQxQIfcrt8daU/edit?usp=sharing\""
   university: Carnegie Mellon
 
 - name:  Mahsa Varshosaz	
