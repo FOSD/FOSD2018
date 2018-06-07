@@ -48,8 +48,11 @@ This year, every participant has an allocated slot of 25 minutes.
 Please prepare slides that do not require more than 13 minutes of presentation such that we have at least half of the slot for discussions.
 We will enforce the 13 min time limit strictly.
 
+This year's group picture:
+![Participants 2018]({{ site.baseurl }}{% link assets/img/participants_2018.jpg %})
+
 Group picture from last year:
-![participants 2017](https://fosd.github.io/FOSD2018/assets/img/participants.jpg)
+![Participants 2017]({{ site.baseurl }}{% link assets/img/participants.jpg %})
 
 ## Location & Travel Information
 The FOSD Meeting 2018 will take place at Chalmers Technical University in Gothenburg, Sweden. Specifically, it will be held at Campus Johanneberg (<http://www.chalmers.se/en/about-chalmers/premises-and-campus/Pages/find-your-way-to-chalmers.aspx>), which is the larger one of the two Chalmers Campus (the smaller one is at Lindholmen).

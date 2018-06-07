@@ -7,6 +7,8 @@ description: Welcome to the Web site of the Feature Oriented Software Developmen
 header_image: header.jpg
 
 repository: FOSD/FOSD2018
+url: https://fosd.github.io
+baseurl: /FOSD2018
 
 defaults:
   - scope:
