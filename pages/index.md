@@ -32,9 +32,8 @@ We are glad to have the following participants.
   {% for item in site.data.participants %}
   <tr>
    <td width="20%">{{item.name}}</td>
-   <td width="70%">{{item.title}} {% if {{item.link}} != null %}<a href={{item.link}} target="_blank" >[slides]</a>{% endif %}</td>
+   <td width="70%">{{item.title}} {% if item.link != null %}<a href={{item.link}} target="_blank" >[slides]</a>{% endif %}</td>
    <td width="10%">{{item.university}}</td>
-   <a href="url">link text</a>
   </tr>
  {% endfor %}
 
