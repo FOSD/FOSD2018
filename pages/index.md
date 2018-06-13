@@ -87,7 +87,7 @@ There is also a convenient airport bus service that connects Landvetter Airport 
 
 ## Keynote Speakers
 * Umut Tezduyar Lindskog, Axis Communications, Lund, Sweden; keynote title: 1 Platform, 250 Products, 1000 Software Releases
-* Prof. Myra Cohen, University of Nebraska-Lincoln, USA (<https://cse.unl.edu/~myra/>)
+* Prof. Myra Cohen, University of Nebraska-Lincoln, USA (<https://cse.unl.edu/~myra/>); keynote title: Bio-inspired or Feature-inspired Bio? (<http://cse.unl.edu/~myra/papers/Keynote-FOSD2018.pdf>)
 
 ## Schedule
 The meeting will run from June 3 (1pm) until June 6 (evening) and includes a social event on June 5 (afternoon). We will release the exact presentation order at the workshop itself.
