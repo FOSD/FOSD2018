@@ -14,13 +14,13 @@ The website should be previewed locally before issuing pull requests.
 Perform the following steps for the initial setup:
 * `ruby --version`  
   Check whether you have Ruby 2.1.0 or higher installed on your system.
-* `gem install bundler`  
+* `sudo gem install bundler` or `gem install --user-install bundler`  
   [Bundler](https://bundler.io/) is used to manage the gems needed to build the website.
-* `bundle install` In the root directory of the Repository.  
-  Install all gems needed to build the website.
-  
+* `bundle config set --local path '.gems'` and then `bundle install` in the root directory of the Repository.  
+  Install all gems needed to build the website into the `.gems` directory.
+
 The following command only has to be restarted if the `_config.yml` file is changed.
-  
+
 * `bundle exec jekyll serve` In the root directory of the Repository.  
   Generate the website and make it available on `http://127.0.0.1:4000`.
   
